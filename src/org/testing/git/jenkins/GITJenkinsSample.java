@@ -7,6 +7,7 @@ public class GITJenkinsSample {
 		System.out.println("3) Om Nama Shivaya");
 		System.out.println("4) Om Nama Shivaya");
 		System.out.println("5) Om Nama Shivaya");
+		System.out.println("6) Om Nama Shivaya");
 	}
 
 }
